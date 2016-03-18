@@ -1,0 +1,53 @@
+    body{
+        background: rgba(54,172,255,0.5);
+    }    
+    div{
+        position: absolute;
+        width: 3%;
+        height: 4%;
+        font-size: 20px;
+        color: rgba(255,0,0,1);
+    }
+    .d1{
+        top:10%;
+        left:50%;
+    }
+    .d2{
+        top:25%;
+        left:75%;
+    }
+    .d3{
+        top:50%;
+        left:90%;
+    }
+    .d4{
+        top:75%;
+        left:75%;
+    }
+    .d5{
+        top:90%;
+        left:50%;
+    }
+    .d6{
+        top:75%;
+        left:25%;
+    }
+    .d7{
+        top:50%;
+        left:10%;
+    }
+    .d8{
+        top:25%;
+        left:25%;
+    }
+
+    .cir{
+        width: 15%;
+        height: 50%;
+        top: 25%;
+        left: 44%;
+    }
+    .img{
+        width: 100%;
+        height: 100%;
+    }
